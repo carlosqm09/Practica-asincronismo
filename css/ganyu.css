@@ -1,0 +1,20 @@
+.button {
+    border: 0;
+    background: none;
+    -webkit-appearance: none;
+}
+
+.bg{
+    background-image: url(https://astelus.com/wp-content/viajes/el-hermoso-anochecer-desde-raiatea-polinesia-francesa-1440x810.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1{
+    color: white;
+}
+.b{
+    border-color: black;
+    border: 1cm;
+}
